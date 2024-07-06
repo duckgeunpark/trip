@@ -1,0 +1,3 @@
+pip install -r https://raw.githubusercontent.com/teddylee777/langchain-kr/main/requirements.txt
+
+pip install langchain-teddynote
